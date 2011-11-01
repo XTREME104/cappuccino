@@ -1,28 +1,33 @@
 Welcome to Cappuccino for Adobe Air and Flash!
 ======================
 
+To find the original version of Cappuccino, made for web applications, go to <http://github.com/cappuccino/cappuccino/issues>
+
+This version of Cappuccino is made for ActionScript, rather than JavaScript, so it is made to create Adobe AIR, and Flash applications, rather than web applications.
+
 Introduction
 ------------
-Cappuccino is an open source framework that makes it easy to build desktop-caliber applications.
+Cappuccino is an open source framework that makes it easy to build desktop-caliber applications, that run in a web browser.
 
-Cappuccino is built on top of standard technologies like ActionScript, and it implements most of the familiar APIs from GNUstep and Apple's Cocoa frameworks. When you program in Cappuccino, you don't need to concern yourself with the complexities of traditional technologies like MXML, or CSS. The unpleasantries of building complex applications are abstracted away for you.
+This modified version of Cappuccino is built on top of technologies like ActionScript, and it implements most of the familiar APIs from GNUstep and Apple's Cocoa frameworks. When you program in Cappuccino, you don't need to concern yourself with the complexities of technologies like MXML, or CSS. The unpleasantries of building complex applications are abstracted away for you.
 
 For more information, see <http://cappuccino.org>.
 
 System Requirements
 -------------------
-To run Cappuccino applications, all you need is Adobe AIR, or Adobe Flash (Depending on which the application was made for).
+To run ActionScript Cappuccino applications, all you need is Adobe AIR, or Flash (Depending on which the application was made for). Flash is already installed on almost every computer (98.9%), but Adobe AIR probably isn't installed on your computer, unless you've previously used an Adobe AIR app.
 
-To build Cappuccino itself, please read more here: [Getting and Building the Source](http://wiki.github.com/cappuccino/cappuccino/getting-and-building-the-source>).
+To run original JavaScript Cappuccino applications, all you need is a web browser that supports JavaScript (All current versions of Internet Explorer, Firefox, Safari, and Google Chrome), and has it enabled.
+
+To build Cappuccino itself, read more here: [Getting and Building the Source](http://wiki.github.com/cappuccino/cappuccino/getting-and-building-the-source>).
 
 If you're using Windows, you'll also need [Cygwin](http://www.cygwin.com/).
 
-Finally, if you want to easily stay up to date with the latest developments and contribute your work back to the Cappuccino community, you'll want to
-[install Git](http://git-scm.com/).
+Finally, if you want to easily stay up to date with the latest developments and contribute your work back to the Cappuccino community, you'll want to [install Git](http://git-scm.com/).
 
 Getting Started
 ---------------
-These instructions are for building a development copy of Cappuccino. If you'd just like to get started using Cappuccino for your web apps, you should instead download a pre-compiled copy of Cappuccino from:
+These instructions are for building a development copy of Cappuccino. If you'd just like to get started using Cappuccino for your apps, you should instead download a pre-compiled copy of Cappuccino from:
 
   <http://github.com/XTREME104/cappucino/downloads>
 
@@ -54,7 +59,8 @@ If you need help with Cappuccino, you can get help from the following sources:
 
   - [FAQ](http://cappuccino.org/discuss/faq.php)
   - [Documentation](http://cappuccino.org/learn/)
-  - [Wiki](http://github.com/XTREME104/cappuccino/wikis)
+  - [Cappucino for ActionScript Wiki](http://github.com/XTREME104/cappuccino/wikis)
+  - [Original Cappuccino for JavaScript Wiki](http://github.com/cappuccino/cappuccino/wikis)
   - Mailing Lists:
     - [Objective-J](http://groups.google.com/group/objectivej)
     - [Objective-J Developers](http://groups.google.com/group/objectivej-dev)
